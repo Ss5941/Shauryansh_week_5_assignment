@@ -1,6 +1,5 @@
 # Shauryansh_week_5_assignment
-Week 5 : Spark Fundamentals, Data Cleaning, and Core Transformations
-# Big Data Engineering & Analytics: Week 5 — Spark Fundamentals & Data Cleaning
+#  Week 5 — Spark Fundamentals & Data Cleaning  and Core Transformations
 
 Welcome to the **Spark Fundamentals, Data Cleaning, and Core Transformations** repository. This project contains conceptual explanations and production-ready PySpark pipeline queries developed during the Celebal Summer Internship. The codebase demonstrates core big data processing strategies, data quality workflows, and aggregation optimization techniques.
 
@@ -10,7 +9,7 @@ Welcome to the **Spark Fundamentals, Data Cleaning, and Core Transformations** r
 * **Name:** Shauryansh Chauhan 
 * **Institution:** MMDU 
 * **Course:** B.Tech Computer Science & Engineering 
-* **Domain:** Big Data Engineering (Week 5 Assignment)
+
 
 ---
 
