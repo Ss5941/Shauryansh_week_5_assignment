@@ -8,7 +8,8 @@ Welcome to the **Spark Fundamentals, Data Cleaning, and Core Transformations** r
 ## 📌 Intern Details
 * **Name:** Shauryansh Chauhan 
 * **Institution:** MMDU 
-* **Course:** B.Tech Computer Science & Engineering 
+* **Course:** B.Tech Computer Science & Engineering
+  
 ## 📌 platform used : databricks 
 
 ---
